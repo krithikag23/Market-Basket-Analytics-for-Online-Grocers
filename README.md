@@ -17,17 +17,6 @@ The project demonstrates how **data-driven insights** can improve:
 
 ---
 
-## 🗂️ Repository Structure
-
-Market-Basket-Analytics/
-│
-├── app.py # Streamlit dashboard application
-├── model_colab.ipynb # Colab notebook for data preprocessing & association rule mining
-├── rules_output.csv # Model output (association rules with support, confidence, lift)
-├── transactions_cleaned.csv # Cleaned transaction-level dataset
-├── README.md # Project documentation (this file)
-
-
 ## 🚀 Getting Started
 
 ### 🔧 Requirements
