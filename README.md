@@ -1,6 +1,6 @@
 # 🧠 Unlocking Growth: Market Basket Analytics for Online Grocers
 
-### 📊 A Business Intelligence & Analytics Project by *Krithika Ganesan*
+### 📊 A Business Intelligence & Analytics Project 
 
 ---
 
