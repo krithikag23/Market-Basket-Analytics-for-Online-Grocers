@@ -21,6 +21,7 @@ st.caption("Discover product affinities, customer patterns, and business insight
 # ------------------------------------------------------------
 # 📂 Data Loading Section
 # ------------------------------------------------------------
+
 st.sidebar.header("📁 Data Source")
 
 use_colab_output = st.sidebar.checkbox("Use my Colab Model Output", value=True)
