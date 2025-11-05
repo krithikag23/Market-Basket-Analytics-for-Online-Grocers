@@ -7,9 +7,11 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import time
+
 # ------------------------------------------------------------
 # 🎛️ Sidebar Settings
 # ------------------------------------------------------------
+
 st.set_page_config(page_title="Market Basket Analytics", layout="wide")
 st.sidebar.title("⚙️ Controls")
 
