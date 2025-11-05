@@ -57,6 +57,7 @@ else:
         }
         rules = pd.DataFrame(demo_rules)
         st.warning("⚠️ Demo mode active (random grocery data).")
+        
 
 # ------------------------------------------------------------
 # 🧮 Clean and Validate Data
