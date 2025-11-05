@@ -15,6 +15,7 @@ The project demonstrates how **data-driven insights** can improve:
 - Inventory management
 - Real-time customer recommendation systems
 
+
 ---
 
 ## 🚀 Getting Started
